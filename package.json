@@ -529,7 +529,7 @@
     "popper.js": "^1.16.0",
     "portfinder": "^1.0.25",
     "posix-character-classes": "^0.1.1",
-    "postcss": "^7.0.24",
+    "postcss": "^8.2.10",
     "postcss-attribute-case-insensitive": "^4.0.1",
     "postcss-calc": "^7.0.1",
     "postcss-color-functional-notation": "^2.0.1",
