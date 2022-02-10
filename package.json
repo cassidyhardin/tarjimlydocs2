@@ -456,7 +456,7 @@
     "node-libs-browser": "^2.2.1",
     "node-pre-gyp": "^0.12.0",
     "node-releases": "^1.1.42",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "nopt": "^3.0.6",
     "normalize-package-data": "^2.5.0",
     "normalize-path": "^3.0.0",
